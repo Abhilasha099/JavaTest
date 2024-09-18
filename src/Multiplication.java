@@ -4,9 +4,9 @@ public class Multiplication {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int result=Multiply(5,10);
+		int result=Multiply(4,10);
 		System.out.println(result);
-		
+		System.out.println("This is for git");
 		
 	}
 		
